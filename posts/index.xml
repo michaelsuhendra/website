@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Michael Suhendra</title>
+    <link>https://michaelsuhendra.github.io/posts/</link>
+    <description>Recent content in Posts on Michael Suhendra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Aug 2021 16:50:08 +0200</lastBuildDate><atom:link href="https://michaelsuhendra.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Landing Page</title>
+      <link>https://michaelsuhendra.github.io/posts/landing-page/</link>
+      <pubDate>Fri, 06 Aug 2021 16:50:08 +0200</pubDate>
+      
+      <guid>https://michaelsuhendra.github.io/posts/landing-page/</guid>
+      <description>Introduction</description>
+    </item>
+    
+  </channel>
+</rss>
