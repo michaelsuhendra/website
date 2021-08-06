@@ -1,0 +1,18 @@
+baseURL = 'https://michaelsuhendra.github.io/'
+languageCode = 'en-us'
+title = 'Michael Suhendra'
+theme = 'lekh'
+
+[params]
+Name = 'Michael Suhendra'
+About = 'Fullstack developer with interest in data science'
+Resume = ""
+Email = ""
+
+[[params.profiles]]
+name = "Github"
+url = "https://github.com/michaelsuhendra"
+
+[[params.profiles]]
+name = "Medium"
+url = "https://michael-suhendra.medium.com/"
